@@ -1,0 +1,106 @@
+
+.app {
+  max-width: 400px;
+  margin: auto;
+   align-items: left;
+  
+}
+
+body{
+  background-color: brown; 
+}
+
+h1{
+  background-color: green;
+  text-align: center;
+  padding:40px;
+}
+
+a{
+   background-color: blue;
+}
+
+button{
+  border-radius:25px;
+}
+
+#Signinbutton{
+ background-color: blue;
+ justify-content: right;
+ 
+}
+#Logoutbutton{
+   background-color: blue;
+}
+.page-title {
+ text-align: center;
+ color: blue;
+}
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1em;
+  margin-bottom: 1em;
+    
+}
+
+.appAside {
+  width: 50%;
+  background-color: #6b5b95;
+  display: grid;
+  
+}
+
+.Login{
+display:flex;
+}
+
+#appAside {
+  width: 50%;
+  background-color: #6b5b95;
+  display: grid;
+  flex-direction:left;
+}
+#createbutton{
+  color: blue;
+}
+
+#resetbutton{
+  color:red;
+}
+
+#Recentbuuton{
+  color:Green;
+  justify-content:right;
+}
+
+#deletebutton{
+  color:;
+  
+
+}
+.noteTitle {
+  font-weight: inherit;
+  border: none;
+  outline: none;
+}
+
+.noteContent {
+  width: 100%;
+  border: none;
+  resize: none;
+  outline: none;
+  margin-bottom: 0.5em;
+}
+.deletebutton{
+  color:red;
+}
+
+
+#footer {
+background-color: black;
+ 
+}
+
+
+
